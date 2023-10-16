@@ -30,9 +30,23 @@ main{
     flex-grow: 1;
     flex-basis: 0; 
     background: #eee;
-    padding: 20px;
+    padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
+}
+
+.details section.with-code{
+    padding: 0;
+}
+
+div.code-copy{
+    padding: 25px;
+
+}
+
+div.code-html{
+    padding: 25px;
+    background: #424242;
 }
 img {
     width: 100%;
